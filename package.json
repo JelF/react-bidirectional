@@ -1,0 +1,12 @@
+{
+  "name": "react-bidirectional",
+  "version": "1.0.0",
+  "description": "Angular-like scope factory for react and formBuilder based on it",
+  "main": "src/index.js",
+  "author": "JelF",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "react": "^15.6.1"
+  }
+}
